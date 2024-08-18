@@ -24,7 +24,7 @@ The build is a jar file located in " Pong_Build ".
 Just open it with by right clicking with java (TM) platform SE library.
 
 Also i configured this project only for windows users. 
-Sorry for Mac and Androids users ... As i said, i maid this during my freetime, the intent is not to do a " pro " thing with a multi platform management. 
+Sorry for Mac and Androids users ... As i said, i made this during my freetime, the intent is not to do a " pro " thing with a multi platform management. 
 But i enjoyed making it and it was a cool challenge ! 
 
 So, in order to end with this goods words,
