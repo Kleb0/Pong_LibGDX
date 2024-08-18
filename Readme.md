@@ -32,3 +32,5 @@ Please take a good care of you !
 
 Clément M,
 your frenchie dev. 
+
+![Pong game](Pong.gif)
